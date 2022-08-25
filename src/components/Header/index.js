@@ -7,7 +7,7 @@ const Header = () => {
     <div className="container bg-primary">
       <div className="innerHeader">
         <h1>Andre Blankholm</h1>
-
+        <img src="Images/profileimg.jpg" alt="My profile" width="50%" />
       </div>
     </div>
   )

@@ -31,7 +31,7 @@ const Homepage = () => {
                 setCurrentPage={setCurrentPage}
                 currentPage={currentPage}
             ></Nav>
-            <div className='container'>
+            <div className='container.fluid' >
                 <Page currentPage={currentPage}> </Page>
             </div>
             <div> <Footer /> </div>
